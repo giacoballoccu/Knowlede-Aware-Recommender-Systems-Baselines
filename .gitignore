@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+Model/output/ml1m/gender_results/*
+Model/output/lastfm/gender_results/*
+Model/pretrain
 # Distribution / packaging
 .Python
 build/

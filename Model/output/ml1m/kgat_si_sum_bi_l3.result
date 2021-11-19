@@ -1,0 +1,4 @@
+embed_size=64, lr=0.0001, layer_size=[64,32,16], node_dropout=[0.1], mess_dropout=[0.1,0.1,0.1], regs=[1e-5,1e-5], adj_type=si, use_att=True, use_kge=True, pretrain=0
+	Best Iter=[7]@[1993.4]	recall=[0.04878], precision=[0.10839], hit=[0.51026], ndcg=[0.29397]
+embed_size=64, lr=0.0001, layer_size=[64,32,16], node_dropout=[0.1], mess_dropout=[0.1,0.1,0.1], regs=[1e-5,1e-5], adj_type=si, use_att=True, use_kge=True, pretrain=0
+	Best Iter=[69]@[25820.1]	recall=[0.06715], precision=[0.12146], hit=[0.58808], ndcg=[0.33223]
